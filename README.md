@@ -17,10 +17,10 @@ Kamelle Brooks - @sectorfifty
 The Username for Scratch OS is Scratchy and so is the Password!
 
 # Features
-Custom Wallpaper.
-Very Scratch Themed.
-Compliance with RPI and Windows.
-User Friendly UI 
-Griffpatch Theme
+Custom Wallpaper,
+Very Scratch Themed, 
+Compliance with RPI and Windows, 
+User Friendly UI, 
+,Griffpatch Theme.
 
 # WHAT ARE YOU WAITING FOR??????? DOWNLOAD AND MAKE GRIFFPATCH HAPPY. (GRIFFPATCH IS NOT ASSOSIATED)
