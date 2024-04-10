@@ -21,6 +21,8 @@ Custom Wallpaper,
 Very Scratch Themed, 
 Compliance with RPI and Windows, 
 User Friendly UI, 
-,Griffpatch Theme.
+ & a Griffpatch Theme!
 
-# WHAT ARE YOU WAITING FOR??????? DOWNLOAD AND MAKE GRIFFPATCH HAPPY. (GRIFFPATCH IS NOT ASSOSIATED)
+# Download now!
+
+Have fun, be yourself! Download Scratch OS's latest release now!
